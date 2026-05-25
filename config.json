@@ -1,0 +1,8 @@
+{
+    "name": "authmodel-service",
+    "version": "1.0.437",
+    "private": false,
+    "environment": "production",
+    "build_id": 779,
+    "allow_public_access": true
+}
